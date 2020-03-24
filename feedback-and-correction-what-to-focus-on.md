@@ -18,5 +18,7 @@ These four links at the top of the page link are meant as a convenience for user
 The following is content I have created
 {% endhint %}
 
-Everything under the www.fastaireference.com domain. Sometimes you
+Everything under the www.fastaireference.com domain. Sometimes you'll find links like [this](https://www.wikipedia.org/) that may lead to Wikipedia or other resources. These may lead to other [domains](https://en.wikipedia.org/wiki/Domain_name), like Wikipedia. If the [URL ](https://en.wikipedia.org/wiki/URL)of the website changes \(the sequence of words you see at the top of the browser\), then the content is not written by me,
+
+![The URL](.gitbook/assets/image%20%283%29.png)
 
