@@ -4,6 +4,7 @@
 * [Basics](basics/README.md)
   * [How to run](basics/how-to-run.md)
   * [Jupyter Notebook](basics/jupyter-notebook.md)
+  * [PyTorch](basics/pytorch.md)
   * [Contribute](basics/contribute.md)
 * [Tabular data](tabular-data.md)
 * [Computer Vision](computer-vision/README.md)
