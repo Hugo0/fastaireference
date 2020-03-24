@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Cover Letter](README.md)
-* [FEEDBACK & CORRECTION](feedback-and-correction-what-to-focus-on.md)
+* [FEEDBACK & CORRECTION](feedback-and-correction-what-to-focus-on/README.md)
+  * [Feedback from Abishkar](feedback-and-correction-what-to-focus-on/feedback-from-abishkar.md)
 * [Basics](basics/README.md)
   * [How to run](basics/how-to-run.md)
   * [Jupyter Notebook](basics/jupyter-notebook.md)
