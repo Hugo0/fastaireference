@@ -9,6 +9,7 @@
 * [Tabular data](tabular-data.md)
 * [Computer Vision](computer-vision/README.md)
   * [Convolutional Neural Networks \(CNN\)](computer-vision/convolutional-neural-networks-cnn.md)
+  * [Resnets](computer-vision/resnets.md)
 * [NLP](nlp.md)
 * [Reinforcement Learning](reinforcement-learning.md)
 
