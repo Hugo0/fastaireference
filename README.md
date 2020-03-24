@@ -6,7 +6,19 @@ description: 'TO: Virginia Maurer'
 
 Hello Professor,
 
-This
+My reference document covers the material of the 2020 fast.ai course. I believe it is a worthwhile effort because of three reasons:
+
+1. It fulfills a purpose. Fast.ai material is extensive, and there exists no quick way to skim over the contents. Either one watches the lectures in full, or one is left with the alternative of just reading the section titles. No quick summary exists.
+2. The audience is large. The bigger the audience, the more potential positive impact. A lot of people read the fast.ai material and take the course. 
+3. It covers content highly relevant to my career. Machine Learning is a very rapidly growing field that I am interested in, and by spending time with the material I believe I can not only improve my technical communication and my ability to extract and concisely transmit key information, but also learn that information myself.
+
+Regards,
+
+Hugo
+
+_P.S.: For feedback and commentary, I suggest exporting as PDF and then annotating said PDF._
+
+_P.P.S.: I've spent too much time on the presentation \(website, design, etc...\) and too little time on the content. Will work on that this week._
 
 ## Audience and Purpose
 
@@ -27,6 +39,6 @@ A person that has taken the course in the past may have some immediate need to a
 The content is hosted online at [www.fastaireference.com](www.fastaireference.com). Users can:
 
 * Search
-* Navigate the contents menu
+* Navigate the table of contents 
 * Export the entire reference document as PDF \(for printing or offline access\)
 
