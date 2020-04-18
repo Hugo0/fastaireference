@@ -10,7 +10,11 @@ Use the search function at the top right of the webpage to immediately search fo
 
 ![](.gitbook/assets/image%20%287%29.png)
 
+Alternatively, you can also navigate with the arrows at the bottom of this article.
 
+You can also indicate your level of satisfaction with each individual page with the smiley faces at the very bottom of the page:
 
-Feel free to [contribute](contribute.md)
+![](.gitbook/assets/image%20%2812%29.png)
+
+**Please also feel free to** [**contribute**](contribute.md)\*\*\*\*
 
