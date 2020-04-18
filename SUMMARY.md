@@ -1,13 +1,12 @@
 # Table of contents
 
 * [Fast.ai reference](README.md)
-* [Basics](basics/README.md)
-  * [How to run the code](basics/how-to-run.md)
-  * [PyTorch](basics/pytorch.md)
-  * [Jupyter Notebook](basics/jupyter-notebook.md)
+* [How to run the code](how-to-run.md)
+* [PyTorch](pytorch.md)
+* [Jupyter Notebook](jupyter-notebook.md)
 * [Computer Vision](computer-vision/README.md)
-  * [Convolutional Neural Networks \(CNN\)](computer-vision/convolutional-neural-networks-cnn.md)
-  * [Resnets](computer-vision/resnets.md)
+  * [Pooling](computer-vision/pooling.md)
+  * [Convolution](computer-vision/convolution.md)
 * [Tabular data](tabular-data.md)
 * [NLP](nlp.md)
 * [Backpropagation and SGD](backpropagation-and-sgd.md)
