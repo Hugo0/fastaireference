@@ -4,5 +4,9 @@ Images contain a multitude of pixels which are expensive to process. But it is n
 
 ### Max-pooling
 
-The most commonly used 
+The most commonly used pooling algorithm, max pooling is relatively simple:
+
+![](../.gitbook/assets/image%20%289%29.png)
+
+The features of the input layer are separated into groups, and then a representative feature is chosen for each group. In max-pooling, this is the feature with the highest \(max\) number.
 
