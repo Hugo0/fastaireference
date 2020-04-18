@@ -2,7 +2,7 @@
 
 If we represent an image as a two dimensional array of pixels, then convolutions can be applied to detect edges and other more complex features.
 
-![Example greyscale image](../.gitbook/assets/image%20%2810%29.png)
+![Example greyscale image](../.gitbook/assets/image%20%2811%29.png)
 
 The image is then transformed from an array of pixels to an array of convolutions, which are then again fed into more and more convolutional layers. This enables the learning of complex shapes that can then be used by the final fully connected layer to classify the image.
 
