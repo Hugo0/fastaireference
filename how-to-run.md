@@ -4,7 +4,7 @@ description: Describes how to run the fast.ai code
 
 # How to run the code
 
-Machine Learning\(ML\) is extremely computationally intense, and makes heavy use of [Parallelization](https://en.wikipedia.org/wiki/Parallel_computing). Thus, it is strongly advised to make use of a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) \(or a cluster of them\) when training or running ML models.
+Machine Learning\(ML\) is extremely computationally intense and makes heavy use of [Parallelization](https://en.wikipedia.org/wiki/Parallel_computing). Thus, it is strongly advised to make use of a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) \(or a cluster of them\) when training or running ML models.
 
 This can be done locally, if you have a sufficiently equipped machine. If your machine does not have a GPU, or if a single one is not enough for your needs, then [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) is advisable.
 
