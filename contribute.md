@@ -1,3 +1,7 @@
+---
+description: Please do!
+---
+
 # Contribute
 
 This reference document is publicly hosted on GitHub. If you want to contribute, you are very welcome to open a pull request.
