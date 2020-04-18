@@ -2,7 +2,7 @@
 description: Describes how to run the fast.ai code
 ---
 
-# How to run
+# How to run the code
 
 Machine Learning\(ML\) is extremely computationally intense, and makes heavy use of [Parallelization](https://en.wikipedia.org/wiki/Parallel_computing). Thus, it is strongly advised to make use of a [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) \(or a cluster of them\) when training or running ML models.
 
