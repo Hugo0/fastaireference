@@ -16,3 +16,7 @@ Intuitively, one can imagine the process going like this:
 
    i.e. this object has four wheels, windows, a license plate and seat --&gt; it must be a car. 
 
+### Convolutions Mathematically
+
+In mathematical terms, a convolution is a small matrix \(usually 2x2, 3x3 or 4x4\) that is applied \(
+
