@@ -22,5 +22,5 @@ Similar to Google Colab, [Kaggle ](https://www.kaggle.com/)offers a cloud comput
 
 ### AWS, Google Cloud, Azure & Co
 
-Paid cloud providers. Features vary, but generally they offer higher performance and stability, at a price. Suitable for production needs.
+Paid cloud providers have varying features, but generally they offer higher performance and stability, at a price. Suitable for production needs.
 
