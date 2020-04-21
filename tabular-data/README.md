@@ -16,9 +16,23 @@ from fastai.tabular import *
 
 ## Categorical and Continuous data
 
-Tabular data usually consists of two different kinds of da
+Tabular data usually consists of two different kinds of data. Categorical data is represents data that can be divided into unique groups. Food types, gender, marital status etc...
 
+Continuous data is data which exists at all points of an interval. For example, the price of a stock:
 
+![The stock price fluctuates continuously](../.gitbook/assets/image%20%2810%29.png)
+
+These two types of data have to be treated differently. If you were to treat food type as a continuous datatype, then your model might classify your red strawberry ice-cream image as an ice-steak.
+
+The fast.ai library makes this easy:
+
+```text
+cat_names = ['workclass', 'education', 'marital-status',  'relationship', 'race']
+cont_names = ['age', 'salary', 'square-footage-house']
+
+# and then you just indicate the datatypes to the TabularList function 
+data = TabularList.from_df(cat_names=cat_names, cont_names=cont_names)
+```
 
  
 
