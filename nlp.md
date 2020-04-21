@@ -18,7 +18,7 @@ In images, shapes too are context dependent. There however the context is preser
 
 A possible alternative is processing the context words in addition to each target word:
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 This naive approach works, but is computationally intensive. Additionally, for questions of content, a few words of context is not sufficient. In the above example if asked the question "_What_ is fun?", the model would have no way of knowing that the answer is "Deep Learning", because "fun" does not include that context.
 
@@ -28,7 +28,7 @@ This naive approach works, but is computationally intensive. Additionally, for q
 
 This can take various forms, but [LSTM's](https://en.wikipedia.org/wiki/Long_short-term_memory) are the most popular right now.
 
-![A very simple NN that feeds the output of its middle layer to a &quot;recurrent&quot; layer, and then gets it back](.gitbook/assets/image%20%2813%29.png)
+![A very simple NN that feeds the output of its middle layer to a &quot;recurrent&quot; layer, and then gets it back](.gitbook/assets/image%20%2816%29.png)
 
 
 

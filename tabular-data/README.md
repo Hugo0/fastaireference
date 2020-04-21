@@ -20,7 +20,7 @@ Tabular data usually consists of two different kinds of data. Categorical data i
 
 Continuous data is data which exists at all points of an interval. For example, the price of a stock:
 
-![The stock price fluctuates continuously](../.gitbook/assets/image%20%2814%29.png)
+![The stock price fluctuates continuously](../.gitbook/assets/image%20%2817%29.png)
 
 These two types of data have to be treated differently. If you were to treat food type as a continuous datatype, then your model might classify your red strawberry ice-cream image as an ice-steak.
 

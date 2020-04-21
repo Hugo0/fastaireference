@@ -11,8 +11,8 @@
   * [Fully connected layer](tabular-data/fully-connected-layer.md)
 * [NLP](nlp.md)
 * [Reinforcement Learning](reinforcement-learning.md)
-* [Backpropagation and SGD](backpropagation-and-sgd.md)
-* [Overfitting](overfitting.md)
+* [Overfitting and Underfitting](overfitting/README.md)
+  * [Dropout](overfitting/dropout.md)
 * [Contribute](contribute.md)
 * [FEEDBACK & CORRECTION](feedback-and-correction-what-to-focus-on.md)
 
