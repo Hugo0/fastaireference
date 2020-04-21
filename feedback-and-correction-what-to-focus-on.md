@@ -1,6 +1,6 @@
 # FEEDBACK & CORRECTION
 
-Since the format may not be entirely clear, here I clarify what exactly **is** and **is not** part of my reference document, and what I would like the reader to focus on.
+Since the format of this document is somewhat unusual and may not be entirely clear, here I clarify what exactly **is** and **is not** part of my reference document.
 
 ## Content I've not written
 

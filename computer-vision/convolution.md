@@ -18,5 +18,9 @@ Intuitively, one can imagine the process going like this:
 
 ### Convolutions Mathematically
 
-In mathematical terms, a convolution is a small matrix \(usually 2x2, 3x3 or 4x4\) that is applied \(
+In mathematical terms, in a convolution a small kernel \(usually 2x2, 3x3 or 4x4\) is applied to an input matrix \(the pixels of an image\). 
+
+![A 3x3 kernel is applied to an 5x5 image](../.gitbook/assets/image%20%2823%29.png)
+
+The 3x3 kernel is applied to every 3x3 square in the input image sequentially, reducing the image dimension and extracting information in the process.
 

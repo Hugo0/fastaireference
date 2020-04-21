@@ -14,9 +14,9 @@ NLP is special because the meaning of a word is heavily context dependent:
 
 ## Preserving the context
 
-In images, shapes too are context dependent. There however the context is preserved with [convolutions ](computer-vision/convolution.md)and [pooling](computer-vision/pooling.md). With text, we cannot do this.
+In images, shapes too are context dependent. In [Computer Vision](computer-vision/) however the context is preserved with [convolutions ](computer-vision/convolution.md)and [pooling](computer-vision/pooling.md). With text, we cannot do this.
 
-A possible alternative is processing the context words in addition to each target word:
+An alternative is processing the context words in addition to each target word:
 
 ![](.gitbook/assets/image%20%285%29.png)
 
@@ -26,7 +26,7 @@ This naive approach works, but is computationally intensive. Additionally, for q
 
 [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network) \(RNN's\) attempt to solve the problem of storing context by having their own output fed back into them. By doing this for each processed word, information is preserved and passed along.
 
-This can take various forms, but [LSTM's](https://en.wikipedia.org/wiki/Long_short-term_memory) are the most popular right now.
+This can take various forms, [LSTM's](https://en.wikipedia.org/wiki/Long_short-term_memory) being the most popular.
 
 ![A very simple NN that feeds the output of its middle layer to a &quot;recurrent&quot; layer, and then gets it back](.gitbook/assets/image%20%2816%29.png)
 

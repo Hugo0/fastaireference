@@ -14,7 +14,7 @@ Alternatively, you can also navigate with the arrows at the bottom of this artic
 
 You can also indicate your level of satisfaction with each individual page with the smiley faces at the very bottom of the page:
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 **Please also feel free to** [**contribute**](contribute.md)\*\*\*\*
 
